@@ -13,7 +13,7 @@ There are two only dependencies for this wrapper:
 
 There is one script that will perform the whole installation for you, the script `install_dependencies.sh`. This script will install
 first the KafNafParserPy library and then the TreeTagger and all the models. Basically this are the only steps you need to run
-from the command line to get this treetagger-wrapper installed.
+from the command line to get this treetagger-wrapper installed (*QUICK INSTALLATION*).
 ```shell
 cd your_local_path
 git clone https://github.com/rubenIzquierdo/treetagger_kaf_naf
