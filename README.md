@@ -1,14 +1,14 @@
 #Treetagger wrapper#
 
-This module implements a wrapper around TreeTagger (http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) that allows to work with KAF (https://github.com/opener-project/kaf/wiki/KAF-structure-overview) or
-NAF (http://www.newsreader-project.eu/files/2013/01/techreport.pdf) as input/output files. The following are allowed by the wrapper: English, Dutch, German, Spanish, Italian and French, although is very
+This module implements a wrapper around [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) that allows to work with [KAF](https://github.com/opener-project/kaf/wiki/KAF-structure-overview) or
+[NAF](http://www.newsreader-project.eu/files/2013/01/techreport.pdf) as input/output files. The following languages are allowed by the wrapper: English, Dutch, German, Spanish, Italian and French, although is very
 easy to add new languages.
 
 ##Installation##
 
 There are two only dependencies for this wrapper:
 
-1. KafNafParserPy (https://github.com/cltl/KafNafParserPy) library which allows to parse and modify KAF or NAF files
+1. [KafNafParserPy](https://github.com/cltl/KafNafParserPy) library which allows to parse and modify KAF or NAF files
 2. TreeTagger itself, which needs to be installed and available on your machine.
 
 There is one script that will perform the whole installation for you, the script `install_dependencies.sh`. This script will install
@@ -16,8 +16,8 @@ first the KafNafParserPy library and then the TreeTagger and all the models. Bas
 from the command line to get this treetagger-wrapper installed.
 ```shell
 cd your_local_path
-git clone XXXX
-cd xxx
+git clone https://github.com/rubenIzquierdo/treetagger_kaf_naf
+cd treetagger_kaf_naf
 bash install_dependencies.sh
 ````
 
