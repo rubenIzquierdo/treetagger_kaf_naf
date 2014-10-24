@@ -1,0 +1,1199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<KAF xml:lang="en" version="v1.opener">
+  <kafHeader>
+    <fileDesc/>
+    <linguisticProcessors layer="text">
+      <lp name="opener-sentence-splitter-en" version="0.0.1" timestamp="2014-05-09T11:09:46Z"/>
+      <lp name="opener-tokenizer-en" version="1.0.1" timestamp="2014-05-09T11:09:46Z"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="term">
+      <lp name="Treetagger modelEnglish models" version="0.1__24oct2014" timestamp="2014-10-24T10:46:32CEST" beginTimestamp="2014-10-24T10:46:32CEST" endTimestamp="2014-10-24T10:46:32CEST" hostname="kyoto"/>
+    </linguisticProcessors>
+  </kafHeader>
+  <text>
+    <wf wid="w1" sent="1" para="1" offset="0" length="2">In</wf>
+    <wf wid="w2" sent="1" para="1" offset="3" length="11">mathematics</wf>
+    <wf wid="w3" sent="1" para="1" offset="15" length="3">and</wf>
+    <wf wid="w4" sent="1" para="1" offset="19" length="11">theoretical</wf>
+    <wf wid="w5" sent="1" para="1" offset="31" length="7">physics</wf>
+    <wf wid="w6" sent="1" para="1" offset="38" length="1">,</wf>
+    <wf wid="w7" sent="1" para="1" offset="40" length="6">mirror</wf>
+    <wf wid="w8" sent="1" para="1" offset="47" length="8">symmetry</wf>
+    <wf wid="w9" sent="1" para="1" offset="56" length="2">is</wf>
+    <wf wid="w10" sent="1" para="1" offset="59" length="1">a</wf>
+    <wf wid="w11" sent="1" para="1" offset="61" length="12">relationship</wf>
+    <wf wid="w12" sent="1" para="1" offset="74" length="7">between</wf>
+    <wf wid="w13" sent="1" para="1" offset="82" length="9">geometric</wf>
+    <wf wid="w14" sent="1" para="1" offset="92" length="7">objects</wf>
+    <wf wid="w15" sent="1" para="1" offset="100" length="6">called</wf>
+    <wf wid="w16" sent="1" para="1" offset="107" length="6">Calabi</wf>
+    <wf wid="w17" sent="1" para="1" offset="113" length="1">–</wf>
+    <wf wid="w18" sent="1" para="1" offset="114" length="3">Yau</wf>
+    <wf wid="w19" sent="1" para="1" offset="118" length="9">manifolds</wf>
+    <wf wid="w20" sent="1" para="1" offset="128" length="1">(</wf>
+    <wf wid="w21" sent="1" para="1" offset="129" length="8">pictured</wf>
+    <wf wid="w22" sent="1" para="1" offset="137" length="1">)</wf>
+    <wf wid="w23" sent="1" para="1" offset="138" length="1">.</wf>
+    <wf wid="w24" sent="2" para="1" offset="140" length="3">The</wf>
+    <wf wid="w25" sent="2" para="1" offset="144" length="4">term</wf>
+    <wf wid="w26" sent="2" para="1" offset="149" length="6">refers</wf>
+    <wf wid="w27" sent="2" para="1" offset="156" length="2">to</wf>
+    <wf wid="w28" sent="2" para="1" offset="159" length="1">a</wf>
+    <wf wid="w29" sent="2" para="1" offset="161" length="9">situation</wf>
+    <wf wid="w30" sent="2" para="1" offset="171" length="5">where</wf>
+    <wf wid="w31" sent="2" para="1" offset="177" length="3">two</wf>
+    <wf wid="w32" sent="2" para="1" offset="181" length="6">Calabi</wf>
+    <wf wid="w33" sent="2" para="1" offset="187" length="1">–</wf>
+    <wf wid="w34" sent="2" para="1" offset="188" length="3">Yau</wf>
+    <wf wid="w35" sent="2" para="1" offset="192" length="9">manifolds</wf>
+    <wf wid="w36" sent="2" para="1" offset="202" length="4">look</wf>
+    <wf wid="w37" sent="2" para="1" offset="207" length="4">very</wf>
+    <wf wid="w38" sent="2" para="1" offset="212" length="9">different</wf>
+    <wf wid="w39" sent="2" para="1" offset="222" length="13">geometrically</wf>
+    <wf wid="w40" sent="2" para="1" offset="236" length="3">but</wf>
+    <wf wid="w41" sent="2" para="1" offset="240" length="3">are</wf>
+    <wf wid="w42" sent="2" para="1" offset="244" length="12">nevertheless</wf>
+    <wf wid="w43" sent="2" para="1" offset="257" length="10">equivalent</wf>
+    <wf wid="w44" sent="2" para="1" offset="268" length="4">when</wf>
+    <wf wid="w45" sent="2" para="1" offset="273" length="8">employed</wf>
+    <wf wid="w46" sent="2" para="1" offset="282" length="2">as</wf>
+    <wf wid="w47" sent="2" para="1" offset="285" length="5">extra</wf>
+    <wf wid="w48" sent="2" para="1" offset="291" length="10">dimensions</wf>
+    <wf wid="w49" sent="2" para="1" offset="302" length="2">of</wf>
+    <wf wid="w50" sent="2" para="1" offset="305" length="6">string</wf>
+    <wf wid="w51" sent="2" para="1" offset="312" length="6">theory</wf>
+    <wf wid="w52" sent="2" para="1" offset="318" length="1">.</wf>
+    <wf wid="w53" sent="3" para="1" offset="320" length="6">Mirror</wf>
+    <wf wid="w54" sent="3" para="1" offset="327" length="8">symmetry</wf>
+    <wf wid="w55" sent="3" para="1" offset="336" length="3">was</wf>
+    <wf wid="w56" sent="3" para="1" offset="340" length="10">originally</wf>
+    <wf wid="w57" sent="3" para="1" offset="351" length="10">discovered</wf>
+    <wf wid="w58" sent="3" para="1" offset="362" length="2">by</wf>
+    <wf wid="w59" sent="3" para="1" offset="365" length="10">physicists</wf>
+    <wf wid="w60" sent="3" para="1" offset="375" length="1">.</wf>
+    <wf wid="w61" sent="4" para="1" offset="377" length="14">Mathematicians</wf>
+    <wf wid="w62" sent="4" para="1" offset="392" length="6">became</wf>
+    <wf wid="w63" sent="4" para="1" offset="399" length="10">interested</wf>
+    <wf wid="w64" sent="4" para="1" offset="410" length="2">in</wf>
+    <wf wid="w65" sent="4" para="1" offset="413" length="4">this</wf>
+    <wf wid="w66" sent="4" para="1" offset="418" length="12">relationship</wf>
+    <wf wid="w67" sent="4" para="1" offset="431" length="6">around</wf>
+    <wf wid="w68" sent="4" para="1" offset="438" length="4">1990</wf>
+    <wf wid="w69" sent="4" para="1" offset="443" length="4">when</wf>
+    <wf wid="w70" sent="4" para="1" offset="448" length="6">Philip</wf>
+    <wf wid="w71" sent="4" para="1" offset="455" length="8">Candelas</wf>
+    <wf wid="w72" sent="4" para="1" offset="463" length="1">,</wf>
+    <wf wid="w73" sent="4" para="1" offset="465" length="5">Xenia</wf>
+    <wf wid="w74" sent="4" para="1" offset="471" length="2">de</wf>
+    <wf wid="w75" sent="4" para="1" offset="474" length="2">la</wf>
+    <wf wid="w76" sent="4" para="1" offset="477" length="4">Ossa</wf>
+    <wf wid="w77" sent="4" para="1" offset="481" length="1">,</wf>
+    <wf wid="w78" sent="4" para="1" offset="483" length="4">Paul</wf>
+    <wf wid="w79" sent="4" para="1" offset="488" length="5">Green</wf>
+    <wf wid="w80" sent="4" para="1" offset="493" length="1">,</wf>
+    <wf wid="w81" sent="4" para="1" offset="495" length="3">and</wf>
+    <wf wid="w82" sent="4" para="1" offset="499" length="5">Linda</wf>
+    <wf wid="w83" sent="4" para="1" offset="505" length="5">Parks</wf>
+    <wf wid="w84" sent="4" para="1" offset="511" length="6">showed</wf>
+    <wf wid="w85" sent="4" para="1" offset="518" length="4">that</wf>
+    <wf wid="w86" sent="4" para="1" offset="523" length="2">it</wf>
+    <wf wid="w87" sent="4" para="1" offset="526" length="5">could</wf>
+    <wf wid="w88" sent="4" para="1" offset="532" length="2">be</wf>
+    <wf wid="w89" sent="4" para="1" offset="535" length="4">used</wf>
+    <wf wid="w90" sent="4" para="1" offset="540" length="2">as</wf>
+    <wf wid="w91" sent="4" para="1" offset="543" length="1">a</wf>
+    <wf wid="w92" sent="4" para="1" offset="545" length="4">tool</wf>
+    <wf wid="w93" sent="4" para="1" offset="550" length="2">in</wf>
+    <wf wid="w94" sent="4" para="1" offset="553" length="1">a</wf>
+    <wf wid="w95" sent="4" para="1" offset="555" length="6">branch</wf>
+    <wf wid="w96" sent="4" para="1" offset="562" length="2">of</wf>
+    <wf wid="w97" sent="4" para="1" offset="565" length="11">mathematics</wf>
+    <wf wid="w98" sent="4" para="1" offset="577" length="6">called</wf>
+    <wf wid="w99" sent="4" para="1" offset="584" length="11">enumerative</wf>
+    <wf wid="w100" sent="4" para="1" offset="596" length="8">geometry</wf>
+    <wf wid="w101" sent="4" para="1" offset="604" length="1">.</wf>
+    <wf wid="w102" sent="5" para="1" offset="606" length="5">Today</wf>
+    <wf wid="w103" sent="5" para="1" offset="612" length="6">mirror</wf>
+    <wf wid="w104" sent="5" para="1" offset="619" length="8">symmetry</wf>
+    <wf wid="w105" sent="5" para="1" offset="628" length="2">is</wf>
+    <wf wid="w106" sent="5" para="1" offset="631" length="1">a</wf>
+    <wf wid="w107" sent="5" para="1" offset="633" length="5">major</wf>
+    <wf wid="w108" sent="5" para="1" offset="639" length="8">research</wf>
+    <wf wid="w109" sent="5" para="1" offset="648" length="5">topic</wf>
+    <wf wid="w110" sent="5" para="1" offset="654" length="2">in</wf>
+    <wf wid="w111" sent="5" para="1" offset="657" length="4">pure</wf>
+    <wf wid="w112" sent="5" para="1" offset="662" length="11">mathematics</wf>
+    <wf wid="w113" sent="5" para="1" offset="673" length="1">,</wf>
+    <wf wid="w114" sent="5" para="1" offset="675" length="3">and</wf>
+    <wf wid="w115" sent="5" para="1" offset="679" length="14">mathematicians</wf>
+    <wf wid="w116" sent="5" para="1" offset="694" length="3">are</wf>
+    <wf wid="w117" sent="5" para="1" offset="698" length="7">working</wf>
+    <wf wid="w118" sent="5" para="1" offset="706" length="2">to</wf>
+    <wf wid="w119" sent="5" para="1" offset="709" length="7">develop</wf>
+    <wf wid="w120" sent="5" para="1" offset="717" length="1">a</wf>
+    <wf wid="w121" sent="5" para="1" offset="719" length="12">mathematical</wf>
+    <wf wid="w122" sent="5" para="1" offset="732" length="13">understanding</wf>
+    <wf wid="w123" sent="5" para="1" offset="746" length="2">of</wf>
+    <wf wid="w124" sent="5" para="1" offset="749" length="3">the</wf>
+    <wf wid="w125" sent="5" para="1" offset="753" length="12">relationship</wf>
+    <wf wid="w126" sent="5" para="1" offset="766" length="5">based</wf>
+    <wf wid="w127" sent="5" para="1" offset="772" length="2">on</wf>
+    <wf wid="w128" sent="5" para="1" offset="775" length="10">physicists</wf>
+    <wf wid="w129" sent="5" para="1" offset="785" length="1">'</wf>
+    <wf wid="w130" sent="5" para="1" offset="787" length="9">intuition</wf>
+    <wf wid="w131" sent="5" para="1" offset="796" length="1">.</wf>
+    <wf wid="w132" sent="6" para="1" offset="798" length="6">Mirror</wf>
+    <wf wid="w133" sent="6" para="1" offset="805" length="8">symmetry</wf>
+    <wf wid="w134" sent="6" para="1" offset="814" length="2">is</wf>
+    <wf wid="w135" sent="6" para="1" offset="817" length="4">also</wf>
+    <wf wid="w136" sent="6" para="1" offset="822" length="1">a</wf>
+    <wf wid="w137" sent="6" para="1" offset="824" length="11">fundamental</wf>
+    <wf wid="w138" sent="6" para="1" offset="836" length="4">tool</wf>
+    <wf wid="w139" sent="6" para="1" offset="841" length="3">for</wf>
+    <wf wid="w140" sent="6" para="1" offset="845" length="5">doing</wf>
+    <wf wid="w141" sent="6" para="1" offset="851" length="12">calculations</wf>
+    <wf wid="w142" sent="6" para="1" offset="864" length="2">in</wf>
+    <wf wid="w143" sent="6" para="1" offset="867" length="6">string</wf>
+    <wf wid="w144" sent="6" para="1" offset="874" length="6">theory</wf>
+    <wf wid="w145" sent="6" para="1" offset="880" length="1">,</wf>
+    <wf wid="w146" sent="6" para="1" offset="882" length="3">and</wf>
+    <wf wid="w147" sent="6" para="1" offset="886" length="2">it</wf>
+    <wf wid="w148" sent="6" para="1" offset="889" length="3">has</wf>
+    <wf wid="w149" sent="6" para="1" offset="893" length="4">been</wf>
+    <wf wid="w150" sent="6" para="1" offset="898" length="4">used</wf>
+    <wf wid="w151" sent="6" para="1" offset="903" length="2">to</wf>
+    <wf wid="w152" sent="6" para="1" offset="906" length="10">understand</wf>
+    <wf wid="w153" sent="6" para="1" offset="917" length="7">aspects</wf>
+    <wf wid="w154" sent="6" para="1" offset="925" length="2">of</wf>
+    <wf wid="w155" sent="6" para="1" offset="928" length="7">quantum</wf>
+    <wf wid="w156" sent="6" para="1" offset="936" length="5">field</wf>
+    <wf wid="w157" sent="6" para="1" offset="942" length="6">theory</wf>
+    <wf wid="w158" sent="6" para="1" offset="948" length="1">,</wf>
+    <wf wid="w159" sent="6" para="1" offset="950" length="3">the</wf>
+    <wf wid="w160" sent="6" para="1" offset="954" length="9">formalism</wf>
+    <wf wid="w161" sent="6" para="1" offset="964" length="4">that</wf>
+    <wf wid="w162" sent="6" para="1" offset="969" length="10">physicists</wf>
+    <wf wid="w163" sent="6" para="1" offset="980" length="3">use</wf>
+    <wf wid="w164" sent="6" para="1" offset="984" length="2">to</wf>
+    <wf wid="w165" sent="6" para="1" offset="987" length="8">describe</wf>
+    <wf wid="w166" sent="6" para="1" offset="996" length="10">elementary</wf>
+    <wf wid="w167" sent="6" para="1" offset="1007" length="9">particles</wf>
+    <wf wid="w168" sent="6" para="1" offset="1016" length="1">.</wf>
+    <wf wid="w169" sent="7" para="1" offset="1018" length="5">Major</wf>
+    <wf wid="w170" sent="7" para="1" offset="1024" length="10">approaches</wf>
+    <wf wid="w171" sent="7" para="1" offset="1035" length="2">to</wf>
+    <wf wid="w172" sent="7" para="1" offset="1038" length="6">mirror</wf>
+    <wf wid="w173" sent="7" para="1" offset="1045" length="8">symmetry</wf>
+    <wf wid="w174" sent="7" para="1" offset="1054" length="7">include</wf>
+    <wf wid="w175" sent="7" para="1" offset="1062" length="3">the</wf>
+    <wf wid="w176" sent="7" para="1" offset="1066" length="11">homological</wf>
+    <wf wid="w177" sent="7" para="1" offset="1078" length="6">mirror</wf>
+    <wf wid="w178" sent="7" para="1" offset="1085" length="8">symmetry</wf>
+    <wf wid="w179" sent="7" para="1" offset="1094" length="7">program</wf>
+    <wf wid="w180" sent="7" para="1" offset="1102" length="2">of</wf>
+    <wf wid="w181" sent="7" para="1" offset="1105" length="5">Maxim</wf>
+    <wf wid="w182" sent="7" para="1" offset="1111" length="10">Kontsevich</wf>
+    <wf wid="w183" sent="7" para="1" offset="1122" length="3">and</wf>
+    <wf wid="w184" sent="7" para="1" offset="1126" length="3">the</wf>
+    <wf wid="w185" sent="7" para="1" offset="1130" length="3">SYZ</wf>
+    <wf wid="w186" sent="7" para="1" offset="1134" length="10">conjecture</wf>
+    <wf wid="w187" sent="7" para="1" offset="1145" length="2">of</wf>
+    <wf wid="w188" sent="7" para="1" offset="1148" length="6">Andrew</wf>
+    <wf wid="w189" sent="7" para="1" offset="1155" length="10">Strominger</wf>
+    <wf wid="w190" sent="7" para="1" offset="1165" length="1">,</wf>
+    <wf wid="w191" sent="7" para="1" offset="1167" length="10">Shing-Tung</wf>
+    <wf wid="w192" sent="7" para="1" offset="1178" length="3">Yau</wf>
+    <wf wid="w193" sent="7" para="1" offset="1181" length="1">,</wf>
+    <wf wid="w194" sent="7" para="1" offset="1183" length="3">and</wf>
+    <wf wid="w195" sent="7" para="1" offset="1187" length="4">Eric</wf>
+    <wf wid="w196" sent="7" para="1" offset="1192" length="6">Zaslow</wf>
+    <wf wid="w197" sent="7" para="1" offset="1198" length="1">.</wf>
+  </text>
+  <terms>
+    <term tid="t0" type="close" pos="P" morphofeat="IN" lemma="in">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term tid="t1" type="open" pos="N" morphofeat="NN" lemma="mathematics">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term tid="t2" type="close" pos="C" morphofeat="CC" lemma="and">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term tid="t3" type="open" pos="G" morphofeat="JJ" lemma="theoretical">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term tid="t4" type="open" pos="N" morphofeat="NNS" lemma="physic">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term tid="t5" type="open" pos="O" morphofeat="," lemma=",">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term tid="t6" type="open" pos="N" morphofeat="NN" lemma="mirror">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term tid="t7" type="open" pos="N" morphofeat="NN" lemma="symmetry">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term tid="t8" type="open" pos="V" morphofeat="VBZ" lemma="be">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term tid="t9" type="close" pos="D" morphofeat="DT" lemma="a">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term tid="t10" type="open" pos="N" morphofeat="NN" lemma="relationship">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term tid="t11" type="close" pos="P" morphofeat="IN" lemma="between">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term tid="t12" type="open" pos="G" morphofeat="JJ" lemma="geometric">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term tid="t13" type="open" pos="N" morphofeat="NNS" lemma="object">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term tid="t14" type="open" pos="V" morphofeat="VBD" lemma="call">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term tid="t15" type="open" pos="R" morphofeat="NP unknown_lemma" lemma="Calabi">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term tid="t16" type="open" pos="R" morphofeat="NP unknown_lemma" lemma="–">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term tid="t17" type="open" pos="R" morphofeat="NP" lemma="Yau">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term tid="t18" type="open" pos="N" morphofeat="NNS" lemma="manifold">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term tid="t19" type="open" pos="O" morphofeat="(" lemma="(">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term tid="t20" type="open" pos="V" morphofeat="VBN" lemma="picture">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term tid="t21" type="open" pos="O" morphofeat=")" lemma=")">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term tid="t22" type="open" pos="O" morphofeat="SENT" lemma=".">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term tid="t23" type="close" pos="D" morphofeat="DT" lemma="the">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term tid="t24" type="open" pos="N" morphofeat="NN" lemma="term">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term tid="t25" type="open" pos="V" morphofeat="VBZ" lemma="refer">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term tid="t26" type="open" pos="O" morphofeat="TO" lemma="to">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term tid="t27" type="close" pos="D" morphofeat="DT" lemma="a">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term tid="t28" type="open" pos="N" morphofeat="NN" lemma="situation">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term tid="t29" type="open" pos="A" morphofeat="WRB" lemma="where">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term tid="t30" type="open" pos="O" morphofeat="CD" lemma="two">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term tid="t31" type="open" pos="R" morphofeat="NP unknown_lemma" lemma="Calabi">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term tid="t32" type="open" pos="G" morphofeat="JJ unknown_lemma" lemma="–">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term tid="t33" type="open" pos="R" morphofeat="NP" lemma="Yau">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term tid="t34" type="open" pos="N" morphofeat="NNS" lemma="manifold">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term tid="t35" type="open" pos="V" morphofeat="VBP" lemma="look">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term tid="t36" type="open" pos="A" morphofeat="RB" lemma="very">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term tid="t37" type="open" pos="G" morphofeat="JJ" lemma="different">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term tid="t38" type="open" pos="A" morphofeat="RB" lemma="geometrically">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term tid="t39" type="close" pos="C" morphofeat="CC" lemma="but">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term tid="t40" type="open" pos="V" morphofeat="VBP" lemma="be">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term tid="t41" type="open" pos="A" morphofeat="RB" lemma="nevertheless">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term tid="t42" type="open" pos="G" morphofeat="JJ" lemma="equivalent">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term tid="t43" type="open" pos="A" morphofeat="WRB" lemma="when">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term tid="t44" type="open" pos="V" morphofeat="VBN" lemma="employ">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term tid="t45" type="close" pos="P" morphofeat="IN" lemma="as">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term tid="t46" type="open" pos="G" morphofeat="JJ" lemma="extra">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term tid="t47" type="open" pos="N" morphofeat="NNS" lemma="dimension">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term tid="t48" type="close" pos="P" morphofeat="IN" lemma="of">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term tid="t49" type="open" pos="N" morphofeat="NN" lemma="string">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term tid="t50" type="open" pos="N" morphofeat="NN" lemma="theory">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term tid="t51" type="open" pos="O" morphofeat="SENT" lemma=".">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term tid="t52" type="open" pos="N" morphofeat="NN" lemma="mirror">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term tid="t53" type="open" pos="N" morphofeat="NN" lemma="symmetry">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term tid="t54" type="open" pos="V" morphofeat="VBD" lemma="be">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term tid="t55" type="open" pos="A" morphofeat="RB" lemma="originally">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term tid="t56" type="open" pos="V" morphofeat="VBN" lemma="discover">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term tid="t57" type="close" pos="P" morphofeat="IN" lemma="by">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term tid="t58" type="open" pos="N" morphofeat="NNS" lemma="physicist">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term tid="t59" type="open" pos="O" morphofeat="SENT" lemma=".">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term tid="t60" type="open" pos="N" morphofeat="NNS" lemma="mathematician">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term tid="t61" type="open" pos="V" morphofeat="VBD" lemma="become">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term tid="t62" type="open" pos="G" morphofeat="JJ" lemma="interested">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term tid="t63" type="close" pos="P" morphofeat="IN" lemma="in">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term tid="t64" type="close" pos="D" morphofeat="DT" lemma="this">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term tid="t65" type="open" pos="N" morphofeat="NN" lemma="relationship">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term tid="t66" type="close" pos="P" morphofeat="IN" lemma="around">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term tid="t67" type="open" pos="O" morphofeat="CD" lemma="@card@">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term tid="t68" type="open" pos="A" morphofeat="WRB" lemma="when">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term tid="t69" type="open" pos="R" morphofeat="NP" lemma="Philip">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term tid="t70" type="open" pos="R" morphofeat="NP unknown_lemma" lemma="Candelas">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term tid="t71" type="open" pos="O" morphofeat="," lemma=",">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term tid="t72" type="open" pos="R" morphofeat="NP" lemma="Xenia">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term tid="t73" type="open" pos="O" morphofeat="FW" lemma="de">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term tid="t74" type="open" pos="O" morphofeat="FW" lemma="la">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term tid="t75" type="open" pos="R" morphofeat="NP unknown_lemma" lemma="Ossa">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term tid="t76" type="open" pos="O" morphofeat="," lemma=",">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term tid="t77" type="open" pos="R" morphofeat="NP" lemma="Paul">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term tid="t78" type="open" pos="R" morphofeat="NP" lemma="Green">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term tid="t79" type="open" pos="O" morphofeat="," lemma=",">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term tid="t80" type="close" pos="C" morphofeat="CC" lemma="and">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term tid="t81" type="open" pos="R" morphofeat="NP" lemma="Linda">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term tid="t82" type="open" pos="R" morphofeat="NP" lemma="Parks">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term tid="t83" type="open" pos="V" morphofeat="VBD" lemma="show">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term tid="t84" type="close" pos="P" morphofeat="IN" lemma="that">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term tid="t85" type="close" pos="Q" morphofeat="PP" lemma="it">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term tid="t86" type="open" pos="V" morphofeat="MD" lemma="could">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term tid="t87" type="open" pos="V" morphofeat="VB" lemma="be">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term tid="t88" type="open" pos="V" morphofeat="VBN" lemma="use">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term tid="t89" type="close" pos="P" morphofeat="IN" lemma="as">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term tid="t90" type="close" pos="D" morphofeat="DT" lemma="a">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term tid="t91" type="open" pos="N" morphofeat="NN" lemma="tool">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term tid="t92" type="close" pos="P" morphofeat="IN" lemma="in">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term tid="t93" type="close" pos="D" morphofeat="DT" lemma="a">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term tid="t94" type="open" pos="N" morphofeat="NN" lemma="branch">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term tid="t95" type="close" pos="P" morphofeat="IN" lemma="of">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term tid="t96" type="open" pos="N" morphofeat="NNS" lemma="mathematics">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term tid="t97" type="open" pos="V" morphofeat="VBD" lemma="call">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term tid="t98" type="open" pos="G" morphofeat="JJ" lemma="enumerative">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term tid="t99" type="open" pos="N" morphofeat="NN" lemma="geometry">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term tid="t100" type="open" pos="O" morphofeat="SENT" lemma=".">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term tid="t101" type="open" pos="N" morphofeat="NN" lemma="today">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term tid="t102" type="open" pos="N" morphofeat="NN" lemma="mirror">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term tid="t103" type="open" pos="N" morphofeat="NN" lemma="symmetry">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term tid="t104" type="open" pos="V" morphofeat="VBZ" lemma="be">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term tid="t105" type="close" pos="D" morphofeat="DT" lemma="a">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term tid="t106" type="open" pos="G" morphofeat="JJ" lemma="major">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term tid="t107" type="open" pos="N" morphofeat="NN" lemma="research">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term tid="t108" type="open" pos="N" morphofeat="NN" lemma="topic">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term tid="t109" type="close" pos="P" morphofeat="IN" lemma="in">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term tid="t110" type="open" pos="G" morphofeat="JJ" lemma="pure">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term tid="t111" type="open" pos="N" morphofeat="NNS" lemma="mathematics">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term tid="t112" type="open" pos="O" morphofeat="," lemma=",">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term tid="t113" type="close" pos="C" morphofeat="CC" lemma="and">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term tid="t114" type="open" pos="N" morphofeat="NNS" lemma="mathematician">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term tid="t115" type="open" pos="V" morphofeat="VBP" lemma="be">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term tid="t116" type="open" pos="V" morphofeat="VBG" lemma="work">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term tid="t117" type="open" pos="O" morphofeat="TO" lemma="to">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term tid="t118" type="open" pos="V" morphofeat="VB" lemma="develop">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term tid="t119" type="close" pos="D" morphofeat="DT" lemma="a">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term tid="t120" type="open" pos="G" morphofeat="JJ" lemma="mathematical">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term tid="t121" type="open" pos="N" morphofeat="NN" lemma="understanding">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term tid="t122" type="close" pos="P" morphofeat="IN" lemma="of">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term tid="t123" type="close" pos="D" morphofeat="DT" lemma="the">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term tid="t124" type="open" pos="N" morphofeat="NN" lemma="relationship">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term tid="t125" type="open" pos="V" morphofeat="VBN" lemma="base">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term tid="t126" type="close" pos="P" morphofeat="IN" lemma="on">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term tid="t127" type="open" pos="N" morphofeat="NNS" lemma="physicist">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term tid="t128" type="open" pos="O" morphofeat="POS" lemma="'">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term tid="t129" type="open" pos="N" morphofeat="NN" lemma="intuition">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term tid="t130" type="open" pos="O" morphofeat="SENT" lemma=".">
+      <span>
+        <target id="w131"/>
+      </span>
+    </term>
+    <term tid="t131" type="open" pos="N" morphofeat="NN" lemma="mirror">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term tid="t132" type="open" pos="N" morphofeat="NN" lemma="symmetry">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term tid="t133" type="open" pos="V" morphofeat="VBZ" lemma="be">
+      <span>
+        <target id="w134"/>
+      </span>
+    </term>
+    <term tid="t134" type="open" pos="A" morphofeat="RB" lemma="also">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+    <term tid="t135" type="close" pos="D" morphofeat="DT" lemma="a">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term tid="t136" type="open" pos="G" morphofeat="JJ" lemma="fundamental">
+      <span>
+        <target id="w137"/>
+      </span>
+    </term>
+    <term tid="t137" type="open" pos="N" morphofeat="NN" lemma="tool">
+      <span>
+        <target id="w138"/>
+      </span>
+    </term>
+    <term tid="t138" type="close" pos="P" morphofeat="IN" lemma="for">
+      <span>
+        <target id="w139"/>
+      </span>
+    </term>
+    <term tid="t139" type="open" pos="V" morphofeat="VBG" lemma="do">
+      <span>
+        <target id="w140"/>
+      </span>
+    </term>
+    <term tid="t140" type="open" pos="N" morphofeat="NNS" lemma="calculation">
+      <span>
+        <target id="w141"/>
+      </span>
+    </term>
+    <term tid="t141" type="close" pos="P" morphofeat="IN" lemma="in">
+      <span>
+        <target id="w142"/>
+      </span>
+    </term>
+    <term tid="t142" type="open" pos="N" morphofeat="NN" lemma="string">
+      <span>
+        <target id="w143"/>
+      </span>
+    </term>
+    <term tid="t143" type="open" pos="N" morphofeat="NN" lemma="theory">
+      <span>
+        <target id="w144"/>
+      </span>
+    </term>
+    <term tid="t144" type="open" pos="O" morphofeat="," lemma=",">
+      <span>
+        <target id="w145"/>
+      </span>
+    </term>
+    <term tid="t145" type="close" pos="C" morphofeat="CC" lemma="and">
+      <span>
+        <target id="w146"/>
+      </span>
+    </term>
+    <term tid="t146" type="close" pos="Q" morphofeat="PP" lemma="it">
+      <span>
+        <target id="w147"/>
+      </span>
+    </term>
+    <term tid="t147" type="open" pos="V" morphofeat="VBZ" lemma="have">
+      <span>
+        <target id="w148"/>
+      </span>
+    </term>
+    <term tid="t148" type="open" pos="V" morphofeat="VBN" lemma="be">
+      <span>
+        <target id="w149"/>
+      </span>
+    </term>
+    <term tid="t149" type="open" pos="V" morphofeat="VBN" lemma="use">
+      <span>
+        <target id="w150"/>
+      </span>
+    </term>
+    <term tid="t150" type="open" pos="O" morphofeat="TO" lemma="to">
+      <span>
+        <target id="w151"/>
+      </span>
+    </term>
+    <term tid="t151" type="open" pos="V" morphofeat="VB" lemma="understand">
+      <span>
+        <target id="w152"/>
+      </span>
+    </term>
+    <term tid="t152" type="open" pos="N" morphofeat="NNS" lemma="aspect">
+      <span>
+        <target id="w153"/>
+      </span>
+    </term>
+    <term tid="t153" type="close" pos="P" morphofeat="IN" lemma="of">
+      <span>
+        <target id="w154"/>
+      </span>
+    </term>
+    <term tid="t154" type="open" pos="N" morphofeat="NN" lemma="quantum">
+      <span>
+        <target id="w155"/>
+      </span>
+    </term>
+    <term tid="t155" type="open" pos="N" morphofeat="NN" lemma="field">
+      <span>
+        <target id="w156"/>
+      </span>
+    </term>
+    <term tid="t156" type="open" pos="N" morphofeat="NN" lemma="theory">
+      <span>
+        <target id="w157"/>
+      </span>
+    </term>
+    <term tid="t157" type="open" pos="O" morphofeat="," lemma=",">
+      <span>
+        <target id="w158"/>
+      </span>
+    </term>
+    <term tid="t158" type="close" pos="D" morphofeat="DT" lemma="the">
+      <span>
+        <target id="w159"/>
+      </span>
+    </term>
+    <term tid="t159" type="open" pos="N" morphofeat="NN" lemma="formalism">
+      <span>
+        <target id="w160"/>
+      </span>
+    </term>
+    <term tid="t160" type="close" pos="P" morphofeat="IN" lemma="that">
+      <span>
+        <target id="w161"/>
+      </span>
+    </term>
+    <term tid="t161" type="open" pos="N" morphofeat="NNS" lemma="physicist">
+      <span>
+        <target id="w162"/>
+      </span>
+    </term>
+    <term tid="t162" type="open" pos="V" morphofeat="VBP" lemma="use">
+      <span>
+        <target id="w163"/>
+      </span>
+    </term>
+    <term tid="t163" type="open" pos="O" morphofeat="TO" lemma="to">
+      <span>
+        <target id="w164"/>
+      </span>
+    </term>
+    <term tid="t164" type="open" pos="V" morphofeat="VB" lemma="describe">
+      <span>
+        <target id="w165"/>
+      </span>
+    </term>
+    <term tid="t165" type="open" pos="G" morphofeat="JJ" lemma="elementary">
+      <span>
+        <target id="w166"/>
+      </span>
+    </term>
+    <term tid="t166" type="open" pos="N" morphofeat="NNS" lemma="particle">
+      <span>
+        <target id="w167"/>
+      </span>
+    </term>
+    <term tid="t167" type="open" pos="O" morphofeat="SENT" lemma=".">
+      <span>
+        <target id="w168"/>
+      </span>
+    </term>
+    <term tid="t168" type="open" pos="G" morphofeat="JJ" lemma="major">
+      <span>
+        <target id="w169"/>
+      </span>
+    </term>
+    <term tid="t169" type="open" pos="N" morphofeat="NNS" lemma="approach">
+      <span>
+        <target id="w170"/>
+      </span>
+    </term>
+    <term tid="t170" type="open" pos="O" morphofeat="TO" lemma="to">
+      <span>
+        <target id="w171"/>
+      </span>
+    </term>
+    <term tid="t171" type="open" pos="V" morphofeat="VB" lemma="mirror">
+      <span>
+        <target id="w172"/>
+      </span>
+    </term>
+    <term tid="t172" type="open" pos="N" morphofeat="NN" lemma="symmetry">
+      <span>
+        <target id="w173"/>
+      </span>
+    </term>
+    <term tid="t173" type="open" pos="V" morphofeat="VBP" lemma="include">
+      <span>
+        <target id="w174"/>
+      </span>
+    </term>
+    <term tid="t174" type="close" pos="D" morphofeat="DT" lemma="the">
+      <span>
+        <target id="w175"/>
+      </span>
+    </term>
+    <term tid="t175" type="open" pos="G" morphofeat="JJ" lemma="homological">
+      <span>
+        <target id="w176"/>
+      </span>
+    </term>
+    <term tid="t176" type="open" pos="N" morphofeat="NN" lemma="mirror">
+      <span>
+        <target id="w177"/>
+      </span>
+    </term>
+    <term tid="t177" type="open" pos="N" morphofeat="NN" lemma="symmetry">
+      <span>
+        <target id="w178"/>
+      </span>
+    </term>
+    <term tid="t178" type="open" pos="N" morphofeat="NN" lemma="program">
+      <span>
+        <target id="w179"/>
+      </span>
+    </term>
+    <term tid="t179" type="close" pos="P" morphofeat="IN" lemma="of">
+      <span>
+        <target id="w180"/>
+      </span>
+    </term>
+    <term tid="t180" type="open" pos="R" morphofeat="NP" lemma="Maxim">
+      <span>
+        <target id="w181"/>
+      </span>
+    </term>
+    <term tid="t181" type="open" pos="R" morphofeat="NP unknown_lemma" lemma="Kontsevich">
+      <span>
+        <target id="w182"/>
+      </span>
+    </term>
+    <term tid="t182" type="close" pos="C" morphofeat="CC" lemma="and">
+      <span>
+        <target id="w183"/>
+      </span>
+    </term>
+    <term tid="t183" type="close" pos="D" morphofeat="DT" lemma="the">
+      <span>
+        <target id="w184"/>
+      </span>
+    </term>
+    <term tid="t184" type="open" pos="R" morphofeat="NP unknown_lemma" lemma="SYZ">
+      <span>
+        <target id="w185"/>
+      </span>
+    </term>
+    <term tid="t185" type="open" pos="N" morphofeat="NN" lemma="conjecture">
+      <span>
+        <target id="w186"/>
+      </span>
+    </term>
+    <term tid="t186" type="close" pos="P" morphofeat="IN" lemma="of">
+      <span>
+        <target id="w187"/>
+      </span>
+    </term>
+    <term tid="t187" type="open" pos="R" morphofeat="NP" lemma="Andrew">
+      <span>
+        <target id="w188"/>
+      </span>
+    </term>
+    <term tid="t188" type="open" pos="R" morphofeat="NP unknown_lemma" lemma="Strominger">
+      <span>
+        <target id="w189"/>
+      </span>
+    </term>
+    <term tid="t189" type="open" pos="O" morphofeat="," lemma=",">
+      <span>
+        <target id="w190"/>
+      </span>
+    </term>
+    <term tid="t190" type="open" pos="R" morphofeat="NP unknown_lemma" lemma="Shing-Tung">
+      <span>
+        <target id="w191"/>
+      </span>
+    </term>
+    <term tid="t191" type="open" pos="R" morphofeat="NP" lemma="Yau">
+      <span>
+        <target id="w192"/>
+      </span>
+    </term>
+    <term tid="t192" type="open" pos="O" morphofeat="," lemma=",">
+      <span>
+        <target id="w193"/>
+      </span>
+    </term>
+    <term tid="t193" type="close" pos="C" morphofeat="CC" lemma="and">
+      <span>
+        <target id="w194"/>
+      </span>
+    </term>
+    <term tid="t194" type="open" pos="R" morphofeat="NP" lemma="Eric">
+      <span>
+        <target id="w195"/>
+      </span>
+    </term>
+    <term tid="t195" type="open" pos="R" morphofeat="NP" lemma="Zaslow">
+      <span>
+        <target id="w196"/>
+      </span>
+    </term>
+    <term tid="t196" type="open" pos="O" morphofeat="SENT" lemma=".">
+      <span>
+        <target id="w197"/>
+      </span>
+    </term>
+  </terms>
+</KAF>
